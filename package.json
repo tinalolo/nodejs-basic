@@ -1,0 +1,9 @@
+{
+  "name": "your-package-name",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.mjs",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}

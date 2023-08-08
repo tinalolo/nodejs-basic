@@ -1,0 +1,4 @@
+[2023-08-07T17:13:53.810] [DEBUG] default - Debug message
+[2023-08-07T17:13:53.811] [INFO] default - Info message
+[2023-08-07T17:13:53.811] [WARN] default - Warning message
+[2023-08-07T17:13:53.811] [ERROR] default - Error message
